@@ -35,7 +35,7 @@
 			"source": "\\\\SERVER1\\LOGGER\\01 Dorognoe - FM",
 			"destination": "D:\\LOGGER\\Dorognoe FM",
 			"drive": "F:"
-        }
+		}
 //		},
 //		{
 //			"station": "Дорожное Радио Спутник",
