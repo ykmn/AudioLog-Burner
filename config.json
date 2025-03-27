@@ -1,0 +1,28 @@
+{
+	"paths": [
+		{
+			"station": "Европа Плюс",
+			"source": "\\\\SERVER1\\LOGGER\\26 Europa - FM",
+			"destination": "D:\\LOGGER\\Europa Plus",
+			"drive": "E:"
+		},
+		{
+			"station": "Радио 7",
+			"source": "\\\\SERVER2\\LOGGER\\28 Radio7 - FM",
+			"destination": "D:\\LOGGER\\Radio7",
+			"drive": "E:"
+		}
+//		{
+//			"station": "Дорожное Радио FM",
+//			"source": "\\\\SERVER1\\LOGGER\\01 Dorognoe - FM",
+//			"destination": "D:\\LOGGER\\Dorognoe FM",
+//			"drive": "F:"
+//		},
+//		{
+//			"station": "Дорожное Радио Спутник",
+//			"source": "\\\\SERVER2\\LOGGER\\02 Dorognoe - SAT",
+//			"destination": "D:\\LOGGER\\Dorognoe SAT",
+//			"drive": "F:"
+//		}
+	]
+}
